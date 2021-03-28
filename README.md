@@ -17,8 +17,6 @@ Once they're on your system, you can customize them to your preference.
 
 If you have enhancements you would like to share back, issues, comments, and pull requests are welcome.
 
-If you have multiple vaults, and the filesystem your vaults are stored on supports it, you may wish to create one `snippets` folder, and then hard-link that folder in each of your `.obsidian` directories, so you only need to maintain the snippets in one place.
-
 ## License
 
 This repo is placed in the commons, Public Domain ([CC-Zero](https://creativecommons.org/publicdomain/zero/1.0/)) by Peter Kaminski, 2021.
